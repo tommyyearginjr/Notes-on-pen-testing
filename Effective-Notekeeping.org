@@ -1,0 +1,20 @@
+# Notekeeping
+- How to structure
+  - Module 1, Module 2, etc
+  - Step-by-Step
+  - Cheatsheets
+  - Screenshots
+- Applications
+  - +Keepnote+
+  - cheerytree
+  - Joplin
+  - OneNote
+  - emacs ;)
+# Tools
+- +KeepNote+
+- OneNote
+- cherrytree
+- +greenshot+
+- Joplin
+  - Thumbs up!!! :)
+
